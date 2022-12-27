@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, C, C++, PYTHON, HTML, JSS**
 
-- 👯 I’m looking to collaborate on **projects related to Cloud Computing**
+- 👯 I’m looking to collaborate on **projects related to Java, Python, C.**
 
 - 📫 How to reach me **rounakshukla9100@gmail.com**
 
