@@ -2,7 +2,7 @@
 I'm currently working on Java<br>I'm looking forward to collaborate on any project<br>I'm learning C, Python<br>Fun Fact- I'm boring
 
 
-img align="right" alt="Coding" width="400" src="https://previews.123rf.com/images/beatpavel/beatpavel1803/beatpavel180300006/97992262-javascript-coder-with-laptop.jpg">
+<img align="right" alt="Coding" width="400" src="https://previews.123rf.com/images/beatpavel/beatpavel1803/beatpavel180300006/97992262-javascript-coder-with-laptop.jpg">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vivaswan_shukla/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vivaswan-shukla-172974249/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC8brZCMz1dPsNtdtToY6vWA) 
