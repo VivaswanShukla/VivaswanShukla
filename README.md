@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on C++. I am learning full stack developement.<br>I'm looking forward to collaborate on any project<br>I'm learning C, Python<br>Fun Fact- I'm boring
+I'm currently working on C++<br>I'm looking forward to collaborate on any project<br>I'm learning C, Python, Full Stack Developement<br>Fun Fact- I'm boring
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
